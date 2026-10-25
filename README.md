@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **B. Tech Robotics and Automation**
 
-- 👨‍💻 All of my projects are available at [https://www.rishitprabhu.in/](https://www.rishitprabhu.in/)
+- 👨‍💻 All of my projects are available at [rishitprabhu.in](https://www.rishitprabhu.in/)
 
 - 💬 Ask me about **game development, computer science, web development**
 
